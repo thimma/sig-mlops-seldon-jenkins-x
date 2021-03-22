@@ -1,6 +1,7 @@
 
 import numpy as np
-from unittest import mock
+#from unittest import mock
+from mock import MagicMock
 import joblib
 import os
 
